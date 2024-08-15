@@ -3,11 +3,11 @@
     "themes": {
         "sky": {
             "name": "Sky",
-            "repo": "https://github.com/robiso/sky/tree/master",
-            "zip": "https://github.com/robiso/sky/archive/master.zip",
+            "repo": "https://github.com/muminpappa/sky/tree/master",
+            "zip": "https://github.com/muminpappa/sky/archive/master.zip",
             "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
             "version": "3.2.3",
-            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/muminpappa/sky/master/preview.jpg"
         }
     }
 }
